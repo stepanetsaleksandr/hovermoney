@@ -1,0 +1,6 @@
+.header {
+ width: 1600px;
+ height: 200px;
+ grid-area: h;
+ background-color: lavender;
+}
